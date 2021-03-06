@@ -127,7 +127,7 @@
 
 
 	<!-- headp-end -->
-	<hr>
+	
 
 </body>
 </html>
