@@ -30,7 +30,7 @@
           <a class="nav-link active" aria-current="page" href="babygoods.html">خانه</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="https://www.instagram.com/sismooni_ghasrekoodak1/" target="_blank">اینستاگرام</a>
+          <a class="nav-link" href="https://www.instagram.com/sisigoods_insta/" target="_blank">اینستاگرام</a>
         </li>
 
       
